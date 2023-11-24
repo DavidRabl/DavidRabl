@@ -7,3 +7,4 @@
 - 📫 How to reach me ...
 
 [![Years Badge](https://badges.pufler.dev/years/pujux)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/pujux)](https://badges.pufler.dev)
