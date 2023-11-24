@@ -9,4 +9,4 @@
   <img src="https://badges.pufler.dev/commits/periodicity/DavidRabl">
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c#)](https://skillicons.dev)
