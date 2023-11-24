@@ -18,10 +18,10 @@
 </p>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=DavidRabl&show_icons=true&line_height=27&theme=tokyonight">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRabl&hide=&theme=tokyonight">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=DavidRabl&show_icons=true&line_height=27&theme=vue-dark">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRabl&hide=&theme=vue-dark">
 </p>
 
 <p align = "center">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DavidRabl&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=DavidRabl&show_icons=true&locale=en&layout=compact&theme=vue-dark&line_height=0" />
 </p> 
