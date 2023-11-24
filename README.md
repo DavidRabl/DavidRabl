@@ -12,6 +12,6 @@
 <h5 align="center"> my Skillset: </h5>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,cs,dotnet,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,cs,dotnet,visualstudio,vscode" />
   </a>
 </p>
