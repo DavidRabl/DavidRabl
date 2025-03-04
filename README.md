@@ -8,7 +8,7 @@
   <img src="https://badges.pufler.dev/repos/DavidRabl">
 </p>
 
-<p align="center"> Hey! 👋 I'm David and currently a Trainee and future Softwaredeveloper. I'm interested in Game-Design, Web-Design and C# </p>
+<p align="center"> Hey! 👋 I'm David and currently a Trainee and future Softwaredeveloper. I'm interested in AI, Web-Design and Python </p>
 
 <h4 align="center"> my Skillset: </h4>
 <p align="center">
